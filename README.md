@@ -5,13 +5,12 @@
 **Track:** Data Analytics  
 **Task:** Level 1 - Task 1: Exploratory Data Analysis (EDA) on Retail Sales Data
 
----
+
 
 ## 📖 Project Overview
 
 This project focuses on performing **Exploratory Data Analysis (EDA)** on a retail sales dataset to identify customer purchasing patterns, product performance, and sales trends. The analysis helps generate meaningful business insights using Python.
 
----
 
 ## 🎯 Objective
 
@@ -25,7 +24,7 @@ The main objectives of this project are:
 - Discover relationships between numerical features.
 - Generate business insights and recommendations.
 
----
+
 
 ## 🛠️ Tools & Technologies
 
@@ -36,7 +35,7 @@ The main objectives of this project are:
 - Matplotlib
 - Seaborn
 
----
+
 
 ## 📂 Dataset
 
@@ -50,7 +49,6 @@ The dataset contains retail transaction records including:
 - Price per Unit
 - Total Amount
 
----
 
 ## 📈 Analysis Performed
 
@@ -66,7 +64,6 @@ The dataset contains retail transaction records including:
 - Correlation Heatmap
 - Business Insights & Recommendations
 
----
 
 ## 📊 Visualizations
 
@@ -79,7 +76,6 @@ The project includes:
 - Correlation Heatmap
 - Additional Business Insight Charts
 
----
 
 ## 💡 Key Insights
 
@@ -89,7 +85,6 @@ The project includes:
 - Explored relationships between numerical variables.
 - Generated business recommendations based on data.
 
----
 
 ## 📁 Project Structure
 
@@ -102,13 +97,11 @@ DataAnalytics-L1-EDARetailSales/
 └── screenshots/
 ```
 
----
 
 ## 🚀 Conclusion
 
 This project demonstrates how Exploratory Data Analysis (EDA) can be used to extract valuable insights from retail sales data. The findings can help businesses make data-driven decisions related to inventory management, customer targeting, and sales strategy.
 
----
 
 ## 👩‍💻 Author
 
